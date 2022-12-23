@@ -1,0 +1,32 @@
+{
+  "name": "insomnia-plugin-rrn",
+  "description": "Generate RRN inside the Insomnia REST client",
+  "version": "0.0.1",
+  "main": "rrn.js",
+  "license": "MIT",
+  "author": "Fatih Teryaki & Ismail Buga",
+  "insomnia": {
+    "name": "rrn",
+    "description": "Generate random Retrieval Reference Number"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teryakif/InsominaRRN.git"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "RRN",
+    "RetrievalReferenceNumber",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/teryakif/InsominaRRN/issues"
+  },
+  "homepage": "hhttps://github.com/teryakif/InsominaRRN#readme",
+  "scripts": {
+    "test": "test"
+  }
+}
